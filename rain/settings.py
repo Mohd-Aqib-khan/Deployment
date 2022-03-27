@@ -25,10 +25,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-=vb!i3xkbbdtfog%25o@4x)^@w7a9g*)6hwzy062fa3%5&su*5'
 
 #SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["devraindetector.herokuapp.com","localhost"]
-#ALLOWED_HOSTS = ["*"]
+#ALLOWED_HOSTS = []
 
 # Application definition
 

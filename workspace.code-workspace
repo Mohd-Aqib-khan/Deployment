@@ -1,0 +1,44 @@
+{
+   "folders": [
+      {
+         "path": "..\\..\\Bootstrap"
+      },
+      {
+         "path": "..\\..\\Django"
+      },
+      {
+         "path": "..\\..\\..\\Desktop\\HTML travello"
+      },
+      {
+         "path": "."
+      }
+   ],
+   "settings": {
+      "files.exclude": {
+         "**/.git": true,
+         "**/.svn": true,
+         "**/.hg": true,
+         "**/CVS": true,
+         "**/.DS_Store": true,
+         "**/Thumbs.db": true,
+         "**/.classpath": true,
+         "**/.project": true,
+         "**/.settings": true,
+         "**/.factorypath": true,
+         "**/.vscode": true,
+         ".vscode": true
+      },
+      "explorerExclude.backup": null,
+      "liveServer.settings.multiRootWorkspaceName": "Bootstrap"
+   },
+   "launch": {
+      "configurations": [
+         {
+            "name": "Launch Microsoft Edge and open the Edge DevTools",
+            "request": "launch",
+            "type": "vscode-edge-devtools.debug",
+            "url": ""
+         }
+      ]
+   }
+}
