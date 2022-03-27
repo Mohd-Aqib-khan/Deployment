@@ -1,1 +1,1 @@
-web: gunicorn rain.wsgi
+web: gunicorn rain/wsgi.py
